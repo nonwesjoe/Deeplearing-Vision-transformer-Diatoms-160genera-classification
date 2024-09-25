@@ -11,6 +11,7 @@
 - model parameter: 162,162,278 (618.6MB)
 - validation accuracy: 97.2%
 # Model comparision Vison Transformer VS Cnn
+- Four models comparision on validation dataset
 - Vgg19(Cnn):<pre>
 model parameter:45,879,520
 val_accuracy:84.3%
