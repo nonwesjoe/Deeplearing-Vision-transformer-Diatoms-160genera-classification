@@ -18,7 +18,7 @@ val_accuracy:84.3%
 - ResNet43:(Cnn)<pre>
 model parameter:21,392,288
 val_accuracy:85.5%
-- </pre>
+</pre>
 - DenseNet(Cnn):<pre>
 model parameter:7,201,504
 val_accuracy:64.3%
